@@ -1,7 +1,7 @@
 {
   "name": "@lephenix47/simpler-js",
   "version": "1.0.0",
-  "description": "description",
+  "description": "@lephenix47/simpler-js is a comprehensive JavaScript library that provides a collection of helper functions for various purposes, including arrays, media files and files, DOM manipulation, objects, strings, and internalization. It aims to simplify common tasks and enhance the development experience.",
   "main": "lib/es6/index.js",
   "module": "lib/commonjs/index.js",
   "types": "lib/es6/index.d.ts",
@@ -17,7 +17,26 @@
   "files": [
     "lib/**/*"
   ],
-  "keywords": [],
+  "keywords": [
+    "JavaScript",
+    "Library",
+    "Helper functions",
+    "Arrays",
+    "Media files",
+    "Files",
+    "DOM manipulation",
+    "Objects",
+    "Strings",
+    "Internalization",
+    "Utility functions",
+    "Development",
+    "Productivity",
+    "Simplify",
+    "Streamline",
+    "Enhance",
+    "Common tasks",
+    "JavaScript projects"
+  ],
   "author": "Younes LAHOUITI",
   "license": "ISC",
   "bugs": {
