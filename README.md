@@ -1,8 +1,8 @@
-# @lephenix47/
+# @lephenix47/simpler-js
 
 ## Table of Contents
 
-- [@lephenix47/](#lephenix47)
+- [@lephenix47/simpler-js](#lephenix47simpler-js)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Usage](#usage)
